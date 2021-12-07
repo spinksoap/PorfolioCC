@@ -1,2 +1,0 @@
-# PorfolioCC
-the glitch version 
